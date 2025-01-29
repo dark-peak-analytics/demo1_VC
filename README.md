@@ -4,3 +4,5 @@ Hello world!
 This is our first repository!
 
 We are pulling and pushing changes.
+
+Added the missing data script.
