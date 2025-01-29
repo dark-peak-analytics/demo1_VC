@@ -8,8 +8,6 @@
 # Load packages:----
 # load package (needs to be done for every new R session)
 library(tidyverse)
-# library(purrr)
-# library(mice)
 
 # Read and view the data:----
 data_ <- read_csv("~/R/rct_data.csv")
