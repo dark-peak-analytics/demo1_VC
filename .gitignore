@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 temp_folder
-*.csv
+# data
+# *.csv
