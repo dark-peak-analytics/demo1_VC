@@ -28,7 +28,7 @@ EQ5D_df <- data_ %>%
 EQ5D_df_t1 <- data_t1 %>%
   dplyr::as_tibble() %>%
   dplyr::select(-dplyr::contains("SF6D"))
-EQ5D_df_t2 <- data_t1 %>%
+EQ5D_df_t2 <- data_t2 %>%
   dplyr::as_tibble() %>%
   dplyr::select(-dplyr::contains("SF6D"))
 ## SF6D data:----
