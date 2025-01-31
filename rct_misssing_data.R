@@ -10,7 +10,7 @@
 library(tidyverse)
 
 # Read and view the data:----
-data_ <- read_csv("~/R/rct_data.csv")
+data_ <- read_csv("data/rct_data.csv")
 View(data_) # open up data viewer to check dataset looks reasonable
 
 # Split the data based on treatment group and PROM:----
