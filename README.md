@@ -7,4 +7,4 @@ We are pulling and pushing changes.
 
 Added the missing data script.
 
-Also added an extra line for the project demo.
+Changed the last line of code to discuss the benefits of project management within GitHub.
